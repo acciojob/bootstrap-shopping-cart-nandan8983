@@ -1,1 +1,41 @@
-/*  your css code here. If applicable */
+	.heading {
+			text-align: center;
+		}
+		.cl {
+			color: #4a90e2;
+		}
+		.img {
+			width: 100px;
+			height: auto;
+		}
+		.product {
+			border-bottom: 1px solid #ddd;
+			padding-bottom: 20px;
+			margin-bottom: 20px;
+		}
+		.summary{
+			border-top:1px solid #5ea4f3;
+			background-color:#f7fbff;
+			height:100%;
+			padding:20px;
+		}
+		.summary-box {
+		}
+		.summary-box h5 {
+			margin-bottom: 20px;
+			font-weight: 600;
+		}
+		.summary-item {
+			display: flex;
+			justify-content: space-between;
+			margin-bottom: 10px;
+		}
+		.checkout-btn {
+			width: 100%;
+		}
+	section{
+		background-color:#f5f5f5;
+	}
+	.container{
+		background-color:#ffffff;
+	}
